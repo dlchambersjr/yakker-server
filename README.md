@@ -41,4 +41,4 @@ I would test for the following:
 * Do message get removed from the display after 30 seconds.
 
 #### UML
-[Yakker-UML] (https://raw.githubusercontent.com/dlchambersjr/yakker-server/master/yakker-uml.jpg)
+[Yakker-UML](https://raw.githubusercontent.com/dlchambersjr/yakker-server/master/yakker-uml.jpg)
