@@ -2,3 +2,18 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 125%;
+  line-height: 1.5em;
+}
+
+.blue {
+  color:blue;
+}
+
+.black {
+  color:black;
+}

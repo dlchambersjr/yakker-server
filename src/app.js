@@ -1,10 +1,10 @@
 import React from 'react';
-import TrollJohn from './troll.js';
+import Messaging from './messages.js';
 
 const App = props => {
   return (
     <React.Fragment>
-      <TrollJohn />
+      <Messaging />
     </React.Fragment>
   );
 };
